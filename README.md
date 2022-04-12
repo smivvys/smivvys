@@ -1,6 +1,6 @@
 - 👋 Hi, I’m smivvys
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning jogl
+- 🌱 I’m currently learning lwjgl 3
 - 💞️ I’m looking to collaborate on java game development/servers
 - 📫 How to reach me - twitter: @smivvys
 
